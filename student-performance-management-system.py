@@ -1,3 +1,4 @@
+#This is the first version
 students = []
 marks_math = []
 marks_computer_science = []
@@ -68,6 +69,7 @@ Enter: ''')
        exit()
  else:
     print("Invalid entry")
+
 
 
 
